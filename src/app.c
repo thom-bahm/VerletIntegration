@@ -1,3 +1,9 @@
+// Possible additions:
+// 1. Proximity based attraction with mouse
+// 2. Fix issue with particle velocity when the bottom of the box exits the bottom edge of the viewport.
+// 3. Better Shading
+// 4. Adapt to fluid simulation
+
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdio.h>
